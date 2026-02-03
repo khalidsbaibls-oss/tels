@@ -8,7 +8,7 @@ import statistics
 # ==========================
 # CONFIG
 # ==========================
-MODEL_PATH = "best (14).pt"
+MODEL_PATH = "tel.pt"
 CONF_THRESHOLD = 0.25
 
 MIN_BOX_AREA_NORM = 0.0022
